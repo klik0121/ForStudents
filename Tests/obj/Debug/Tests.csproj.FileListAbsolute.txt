@@ -1,0 +1,7 @@
+c:\SchedulerLib\Tests\bin\Debug\Tests.dll
+c:\SchedulerLib\Tests\bin\Debug\Tests.pdb
+c:\SchedulerLib\Tests\bin\Debug\SchedulerLibrary.dll
+c:\SchedulerLib\Tests\bin\Debug\SchedulerLibrary.pdb
+c:\SchedulerLib\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+c:\SchedulerLib\Tests\obj\Debug\Tests.dll
+c:\SchedulerLib\Tests\obj\Debug\Tests.pdb

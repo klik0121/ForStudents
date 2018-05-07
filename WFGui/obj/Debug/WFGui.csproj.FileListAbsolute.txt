@@ -1,0 +1,11 @@
+c:\SchedulerLib\WFGui\bin\Debug\WFGui.exe.config
+c:\SchedulerLib\WFGui\bin\Debug\WFGui.exe
+c:\SchedulerLib\WFGui\bin\Debug\WFGui.pdb
+c:\SchedulerLib\WFGui\bin\Debug\SchedulerLibrary.dll
+c:\SchedulerLib\WFGui\bin\Debug\SchedulerLibrary.pdb
+c:\SchedulerLib\WFGui\obj\Debug\WFGui.csprojResolveAssemblyReference.cache
+c:\SchedulerLib\WFGui\obj\Debug\WFGui.ClientGui.resources
+c:\SchedulerLib\WFGui\obj\Debug\WFGui.Properties.Resources.resources
+c:\SchedulerLib\WFGui\obj\Debug\WFGui.csproj.GenerateResource.Cache
+c:\SchedulerLib\WFGui\obj\Debug\WFGui.exe
+c:\SchedulerLib\WFGui\obj\Debug\WFGui.pdb

@@ -1,0 +1,4 @@
+c:\SchedulerLib\SchedulerLibrary\bin\Debug\SchedulerLibrary.dll
+c:\SchedulerLib\SchedulerLibrary\bin\Debug\SchedulerLibrary.pdb
+c:\SchedulerLib\SchedulerLibrary\obj\Debug\SchedulerLibrary.dll
+c:\SchedulerLib\SchedulerLibrary\obj\Debug\SchedulerLibrary.pdb
